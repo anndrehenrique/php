@@ -1,3 +1,6 @@
 <?php
-	echo "VAI TOMAR NO CU";
+	echo "VAI TOMAR NO CU PORRA";
+
+echo "pera";
+
 ?>
